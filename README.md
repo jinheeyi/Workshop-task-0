@@ -6,4 +6,4 @@
 ## testing
 
 * working first two workshop videos, I started to getting used to on making basic shapes like triangles and circles, and even moving and bouncing off the screen.
-* this is the code for the star, bouncing off, which is a good start, by asking google to demonstrate on how to make complex shapes, like this. 
+* this is the code for the star, bouncing off, which is a good start, by asking www.google.com to demonstrate on how to make complex shapes, like this. 
