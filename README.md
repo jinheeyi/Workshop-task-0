@@ -1,7 +1,7 @@
 # workshop_1_
 
 * after the first class of thsi course, I decided to focus on exploring new shapes, such as stars and polygons, to keep the process straightforward, and experience. 
-* to achieving this, I researched coding techniques for creating star shape and referred to the resources available on the p5.ja website (https://p5js.org/refernce/).
+* to achieving this, I researched coding techniques for creating star shape and referred to the resources available on the p5.ja website ([https://p5js.org/refernce/])
 
 ## testing
 
