@@ -26,4 +26,4 @@ https://canvas.auckland.ac.nz/courses/121821/pages/week-1-overview?module_item_i
 
 ## conclusion
 
-Creating a loop animation with a bouncing screen effect worked very well, as I was able to successfully applying the technique by closely following the lecture videos for guidance.I was quite impressed with how smoothly the process went when coding basic animations, which motivated me to further improve my skills by exploring and experimenting with new coding techniques.
+- Creating a loop animation with a bouncing screen effect worked very well, as I was able to successfully applying the technique by closely following the lecture videos for guidance.I was quite impressed with how smoothly the process went when coding basic animations, which motivated me to further improve my skills by exploring and experimenting with new coding techniques.
