@@ -1,6 +1,8 @@
 ## intro
 
-- after following the first class of this course, I decided to focus on exploring basic shapes, but new shapes, such as stars and polygons, to keep the process straightforward, and experience. So, thought about creating a simple animation on a star bouncing off the screen. 
+- after following the first class of this course, I decided to focus on exploring basic shapes, but new shapes, such as stars and 
+
+polygons, to keep the process straightforward, and experience. So, thought about creating a simple animation on a star bouncing off the screen. 
 - to achieving this, I researched coding techniques for creating star shape and referred to the resources available on the p5.ja website https://p5js.org/reference/ which it was quite difficult on working the codes right.
 - playing with colours and speed movement. 
 
