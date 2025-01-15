@@ -9,6 +9,7 @@
 
 **resources**
 https://p5js.org/tutorials/variables-and-change/
+https://www.youtube.com/watch?v=rSp5iSTXwAY
 
 ## testing
 
