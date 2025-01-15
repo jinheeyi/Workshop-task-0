@@ -11,7 +11,7 @@ website link: https://jinheeyi.github.io/workshop_0/
 - The star had a lot of codes happening for example; using radius1, 2 and npoints to draw the star and even to position the star on where it bounces off to. I had a little help from youtube, and google and chatgpt on how to make a star. 
 
 ## notes(working progress)
-(screenshots included on how the bouncing effect worked)
+
 
 **resources**
 https://p5js.org/tutorials/variables-and-change/
