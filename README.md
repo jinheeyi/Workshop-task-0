@@ -6,6 +6,7 @@
 
 ## notes(working progress)
 (screenshots included on how the bouncing effect worked)
+
 **resources**
 
 ## testing
