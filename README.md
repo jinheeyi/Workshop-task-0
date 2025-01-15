@@ -1,3 +1,5 @@
+website link: https://jinheeyi.github.io/workshop_0/
+
 ## intro
 
 - After following the first class of this course, I decided to focus on exploring basic shapes, but new shapes, such as stars or polygons, to keep the process straightforward, and experience new coding. So, thought about creating a simple animation on a star bouncing off the screen. 
