@@ -19,6 +19,7 @@ https://www.youtube.com/watch?v=rSp5iSTXwAY
 (youtube help on creating a star)
 
 https://canvas.auckland.ac.nz/courses/121821/pages/week-1-overview?module_item_id=2435967
+
 (canvas workshop)
 
 ## conclusion
