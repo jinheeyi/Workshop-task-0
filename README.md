@@ -8,6 +8,7 @@
 (screenshots included on how the bouncing effect worked)
 
 **resources**
+https://p5js.org/tutorials/variables-and-change/
 
 ## testing
 
