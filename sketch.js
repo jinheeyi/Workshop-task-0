@@ -1,4 +1,4 @@
-let angle = 0; // Angle for wing flapping
+let angle = 0; 
 
 function setup() {
   createCanvas(400, 400);
@@ -6,7 +6,7 @@ function setup() {
 }
 
 function draw() {
-  background(30, 30, 60); // Dark blue background
+  background(30, 30, 60); 
 
   
   fill(50);
@@ -14,8 +14,8 @@ function draw() {
   rect(width / 2, height / 2, 10, 40);
 
   
-  drawWing(width / 2 - 5, height / 2, -1); // Left wing
-  drawWing(width / 2 + 5, height / 2, 1);  // Right wing
+  drawWing(width / 2 - 5, height / 2, -1); 
+  drawWing(width / 2 + 5, height / 2, 1);  
 
   
   angle += 0.1;
