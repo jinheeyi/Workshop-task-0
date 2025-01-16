@@ -10,6 +10,7 @@ Website link:
 
 
 ## Notes(working progress)
+![Screenshot 2025-01-16 145902](https://github.com/user-attachments/assets/ecc8e3d3-ebd6-4c21-bfbd-07839642836a)
 
 **Creating a simple butterfly**
 
