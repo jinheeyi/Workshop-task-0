@@ -34,7 +34,7 @@ Website link:
   speedY = random(-2, 2);
 }
 ```
-**intialising butterfly position and speed**
+**Intialising butterfly position and speed**
 ```
 let speedX, speedY;
 ```
