@@ -1,19 +1,20 @@
-Website link: https://jinheeyi.github.io/workshop_0/
+Website link: 
 
 ## Intro
 
-- After following the first class of this course, I decided to focus on exploring basic shapes, but new shapes, such as stars or polygons, to keep the process straightforward, and experience new coding. So, thought about creating a simple animation on a star bouncing off the screen. 
-- Kept researching on exemplars and youtube videos on how to make a star, and workshop 0 and 1 videos. 
-- The primary research involved exploring coding techniques for creating star shapes and referencing the resources available on the p5.js website (https://p5js.org/reference/). However, working with the codes proved to be quite challenging.
+- I successfully completed Workshop 0 and was inspired to create another animation using similar techniques for the workshop 1. For my next project, I decided to develop a butterfly animation, focusing primarily on changing its colors dynamically. I referred to the p5.js tutorial on variables and change (https://p5js.org/tutorials/variables-and-change/) and explored various online resources for creating butterfly animations. There were numerous exemplars and projects related to butterfly animations, many of which were highly engaging and provided valuable inspiration.
+- https://www.artstation.com/artwork/VgaveP
+- https://thecodingtrain.com/challenges/60-butterfly-generator / it was quite challenging on making a real butterfly, and may be too complicated so using this as a reference on my problem solving.
+- so decided to make the shape oval and make it a flapping motion using **sin(angle)**. Using ellipse(oval) () too for the wing shape. 
+- I began to follow the instructions on the Workshop 1, reading on p5js references and what code to work on.
+
 
 ## Notes(working progress)
 
-**Creating a real star.**
-
-- The star had a lot of codes happening for example; using radius1, 2 and npoints to draw the star and even to position the star on where it bounces off to. I had a little help from youtube, and google and chatgpt on how to make a star. Using https://p5js.org/tutorials/variables-and-change/, and https://www.youtube.com/watch?v=rSp5iSTXwAY
+**Creating a simple butterfly**
 
 
 ## Conclusion
 
 - Creating a loop animation with a bouncing screen effect worked very well, as I was able to successfully applying the technique by closely following the lecture videos for guidance.I was quite impressed with how smoothly the process went when coding basic animations, which motivated me to further improve my skills by exploring and experimenting with new coding techniques.
-- For this animation, it looks like a star is wandering off from the black sky, even playing and bouncing around which was beginner step, and I am quite excited on what I could do next to the next level of coding. 
+- For this animation, it looks a butterfly is wandering off from the screen, even playing and bouncing around which was beginner step, and I am quite excited on what I could do next to the next level of coding. 
