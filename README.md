@@ -6,11 +6,11 @@ Website link: https://jinheeyi.github.io/workshop_0/
 - Kept researching on exemplars and youtube videos on how to make a star, and workshop 0 and 1 videos. 
 - The primary research involved exploring coding techniques for creating star shapes and referencing the resources available on the p5.js website (https://p5js.org/reference/). However, working with the codes proved to be quite challenging.
 
+## Notes(working progress)
+
 **Creating a real star.**
 
 - The star had a lot of codes happening for example; using radius1, 2 and npoints to draw the star and even to position the star on where it bounces off to. I had a little help from youtube, and google and chatgpt on how to make a star. Using https://p5js.org/tutorials/variables-and-change/, and https://www.youtube.com/watch?v=rSp5iSTXwAY
-
-## Notes(working progress)
 
 
 ## Conclusion
