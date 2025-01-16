@@ -27,14 +27,14 @@ Website link:
 
 - Further more, I showed my friend the coding of the butterfly and said maybe with colour changing background and some moving the butterfly off the screen might come in handy, so decided to add on to the sketch, too.
   
-'''
+```
   // Initialize butterfly position and speed
   butterflyX = width / 2;
   butterflyY = height / 2;
   speedX = random(2, 4);
   speedY = random(-2, 2);
 }
-'''
+```
 
 ## Conclusion (+ future development)
 
