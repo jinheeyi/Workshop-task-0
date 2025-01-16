@@ -13,8 +13,11 @@ Website link:
 **Creating a simple butterfly**
 ![Screenshot 2025-01-16 145902](https://github.com/user-attachments/assets/ecc8e3d3-ebd6-4c21-bfbd-07839642836a)
 **from the coding train, demonstrating on how to make a realisitc butterfly**
+
 ![Screenshot 2025-01-16 151459](https://github.com/user-attachments/assets/5e9bd9c0-b0d8-4cf9-8dca-0796b4a0c679)
+
 ![Screenshot 2025-01-16 151508](https://github.com/user-attachments/assets/d2d382ab-1d36-4201-b097-8fea534dcd44)
+
 ![Screenshot 2025-01-16 150939](https://github.com/user-attachments/assets/b257fd8e-1f2f-46c9-8500-91956219abc1)
 **using sin(angle) was to use the flapping motion very smooth back and forth.**
 
@@ -22,7 +25,17 @@ Website link:
 
 ![Screenshot 2025-01-16 160250](https://github.com/user-attachments/assets/3adcbb97-3d10-4589-9576-434a691f2e34)
 
-## Conclusion
+- Further more, I showed my friend the coding of the butterfly and said maybe with colour changing background and some moving the butterfly off the screen might come in handy, so decided to add on to the sketch, too. 
 
-- Creating a loop animation with a bouncing screen effect worked very well, as I was able to successfully applying the technique by closely following the lecture videos for guidance.I was quite impressed with how smoothly the process went when coding basic animations, which motivated me to further improve my skills by exploring and experimenting with new coding techniques.
-- For this animation, it looks a butterfly is wandering off from the screen, even playing and bouncing around which was beginner step, and I am quite excited on what I could do next to the next level of coding. 
+  // Initialize butterfly position and speed
+  butterflyX = width / 2;
+  butterflyY = height / 2;
+  speedX = random(2, 4);
+  speedY = random(-2, 2);
+}
+
+
+## Conclusion (+ future development)
+
+- Creating a loop animation with a bouncing screen effect worked very well, as I was able to successfully apply the technique by closely following the lecture videos for guidance.I was quite impressed with how smoothly the process went when coding basic animations, which motivated me to further improve my skills by exploring and experimenting with new coding techniques. Adding more and more on this movement animation was quite an achievement, because it brought me ideas on what to make and what to add. It has somehow 
+- For this animation, it looks a butterfly is wandering off from the screen, even playing and bouncing around which was beginner step, and I am quite excited on what I could do next to the next level of coding. For further development, I will decide to learn more on researching complicated codes plus the compositions. 
