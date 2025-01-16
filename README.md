@@ -18,8 +18,9 @@ Website link:
 ![Screenshot 2025-01-16 150939](https://github.com/user-attachments/assets/b257fd8e-1f2f-46c9-8500-91956219abc1)
 **using sin(angle) was to use the flapping motion very smooth back and forth.**
 
+![Screenshot 2025-01-16 160359](https://github.com/user-attachments/assets/d6a0605a-9dd0-4958-9ada-c85b01dd6343)
 
-
+![Screenshot 2025-01-16 160250](https://github.com/user-attachments/assets/3adcbb97-3d10-4589-9576-434a691f2e34)
 
 ## Conclusion
 
