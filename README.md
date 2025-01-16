@@ -35,6 +35,9 @@ Website link:
   speedY = random(-2, 2);
 }
 ```
+```
+let speedX, speedY;
+```
 
 ## Conclusion (+ future development)
 
