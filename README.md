@@ -8,22 +8,10 @@ Website link: https://jinheeyi.github.io/workshop_0/
 
 **Creating a real star.**
 
-- The star had a lot of codes happening for example; using radius1, 2 and npoints to draw the star and even to position the star on where it bounces off to. I had a little help from youtube, and google and chatgpt on how to make a star. 
+- The star had a lot of codes happening for example; using radius1, 2 and npoints to draw the star and even to position the star on where it bounces off to. I had a little help from youtube, and google and chatgpt on how to make a star. Using https://p5js.org/tutorials/variables-and-change/, and https://www.youtube.com/watch?v=rSp5iSTXwAY
 
 ## Notes(working progress)
 
-
-**Resources**
-
-https://p5js.org/tutorials/variables-and-change/
-(animation beginner)
-
-https://www.youtube.com/watch?v=rSp5iSTXwAY
-(youtube help on creating a star)
-
-https://canvas.auckland.ac.nz/courses/121821/pages/week-1-overview?module_item_id=2435967
-
-(canvas workshop)
 
 ## Conclusion
 
