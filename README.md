@@ -28,16 +28,27 @@ Website link:
 - Further more, I showed my friend the coding of the butterfly and said maybe with colour changing background and some moving the butterfly off the screen might come in handy, so decided to add on to the sketch, too.
   
 ```
-  // Initialize butterfly position and speed
   butterflyX = width / 2;
   butterflyY = height / 2;
   speedX = random(2, 4);
   speedY = random(-2, 2);
 }
 ```
+**intialising butterfly position and speed**
 ```
 let speedX, speedY;
 ```
+**Using the speed of the butterfly**
+```
+function draw() {
+  bgColor = color(
+    map(butterflyX, 0, width, 50, 150), 
+    map(butterflyY, 0, height, 50, 200),
+    map(butterflyX + butterflyY, 0, width + height, 100, 255) 
+  );
+  background(bgColor);
+```
+**Changing the colour dynamically**
 
 ## Conclusion (+ future development)
 
