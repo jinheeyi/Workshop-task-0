@@ -1,6 +1,6 @@
 Website link: https://jinheeyi.github.io/workshop_0/
 
-## Intro
+## Introduction
 
 - I successfully completed Workshop 0 and was inspired to create another animation using similar techniques for the workshop 1. For my next project, I decided to develop a butterfly animation, focusing primarily on changing its colors dynamically. I referred to the p5.js tutorial on variables and change (https://p5js.org/tutorials/variables-and-change/) and explored various online resources for creating butterfly animations. There were numerous exemplars and projects related to butterfly animations, many of which were highly engaging and provided valuable inspiration.
 - https://www.artstation.com/artwork/VgaveP
@@ -10,7 +10,7 @@ Website link: https://jinheeyi.github.io/workshop_0/
 
 
 ## Notes(working progress)
-**Creating a simple butterfly**
+**creating a simple butterfly**
 ![Screenshot 2025-01-16 145902](https://github.com/user-attachments/assets/ecc8e3d3-ebd6-4c21-bfbd-07839642836a)
 **from the coding train, demonstrating on how to make a realisitc butterfly**
 
