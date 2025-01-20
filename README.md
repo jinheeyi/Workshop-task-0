@@ -53,8 +53,9 @@ function draw() {
 ![Screenshot 2025-01-16 164058](https://github.com/user-attachments/assets/2d26659a-6ab3-4ba2-b8af-0662bba4431e)
 
 ![Screenshot 2025-01-16 164115](https://github.com/user-attachments/assets/7c3166fc-c83d-41a1-b175-8c2779ddca17)
+the full complete code:
 
 ## Conclusion (+ future development)
 
 - Creating a loop animation with a bouncing screen effect worked very well, as I was able to successfully apply the technique by closely following the lecture videos for guidance. I was quite impressed with how smoothly the process went when coding basic animations, which motivated me to further improve my skills by exploring and experimenting with new coding techniques. Adding more and more on this movement animation was quite an achievement, because it brought me ideas on what to make and what to add. It has somehow 
-- For this animation, it looks a butterfly is wandering off from the screen, even playing and bouncing around which was beginner step, and I am quite excited on what I could do next to the next level of coding. For further development, I will decide to learn more on researching complicated codes plus the compositions. 
+- For this animation, it looks a butterfly is wandering off from the screen, even playing and bouncing around which was beginner step, and I am quite excited on what I could do next to the next level of coding. But if more advanced, then the butterfly might be different for the shape, just from the examples above. but I think it turned out very well. For further development, I will decide to learn more on researching complicated codes plus the compositions. 
