@@ -27,7 +27,7 @@ Website link: https://jinheeyi.github.io/workshop_0/
 
 - Further more, I showed my friend the coding of the butterfly and said maybe with colour changing background and some moving the butterfly off the screen might come in handy, so decided to add on to the sketch, too.
   
-```
+```ruby
   butterflyX = width / 2;
   butterflyY = height / 2;
   speedX = random(2, 4);
@@ -35,11 +35,11 @@ Website link: https://jinheeyi.github.io/workshop_0/
 }
 ```
 **Intialising butterfly position and speed**
-```
+```ruby
 let speedX, speedY;
 ```
 **Using the speed of the butterfly**
-```
+```ruby
 function draw() {
   bgColor = color(
     map(butterflyX, 0, width, 50, 150), 
