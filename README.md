@@ -51,7 +51,6 @@ function draw() {
 **Changing the colour dynamically**
 
 ![Screenshot 2025-01-16 164058](https://github.com/user-attachments/assets/2d26659a-6ab3-4ba2-b8af-0662bba4431e)
-
 ![Screenshot 2025-01-16 164115](https://github.com/user-attachments/assets/7c3166fc-c83d-41a1-b175-8c2779ddca17)
 
 ## Conclusion (+ future development)
