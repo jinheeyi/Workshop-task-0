@@ -26,6 +26,7 @@ Website link: https://jinheeyi.github.io/workshop_0/
 ![Screenshot 2025-01-16 160250](https://github.com/user-attachments/assets/3adcbb97-3d10-4589-9576-434a691f2e34)
 
 - Further more, I showed my friend the coding of the butterfly and said maybe with colour changing background and some moving for the butterfly, bouncing off the screen might come in handy, so decided to add on to the sketch, too. Asking www.google.com, I began to know better from these resources. 
+![image](https://github.com/user-attachments/assets/618a4d59-3f6e-4301-a69f-aa22d599ec13)
   
 ```ruby
   butterflyX = width / 2;
