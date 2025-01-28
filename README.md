@@ -1,4 +1,4 @@
-Website link: https://jinheeyi.github.io/workshop_0/
+Website link: https://jinheeyi.github.io/Workshop-task-0/
 
 ## Introduction
 
